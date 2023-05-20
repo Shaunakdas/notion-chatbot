@@ -51,11 +51,11 @@ Here's how you can import your data from Notion:
 
 1. Start by exporting your data from Notion. Click on the three-dot menu on the top right corner of your page and select `Export`.
 
-<img src="export_notion.png" alt="export" width="200"/>
+<img src="notion_export.png" alt="export" width="200"/>
 
 2. While exporting, ensure to choose the `Markdown & CSV` format.
 
-<img src="export_format.png" alt="export-format" width="200"/>
+<img src="notion_dropdown.png" alt="export-format" width="200"/>
 
 3. The export process results in a `.zip` file in your Downloads folder. Transfer this file into the repository's directory.
 
